@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <path
+        android:fillColor="@color/dashboard_mascot_background"
+        android:pathData="M48,4a40,40 0 1,1 -0.01,0z" />
+    <path
+        android:fillColor="@color/dashboard_mascot_outfit"
+        android:pathData="M26,58c6,-4 13,-6 22,-6s16,2 22,6v18H26V58z" />
+    <path
+        android:fillColor="@color/dashboard_mascot_skin"
+        android:pathData="M48,22a14,14 0 1,1 -0.01,0z" />
+    <path
+        android:fillColor="@color/dashboard_mascot_hair"
+        android:pathData="M34,26c1.5,-8 7.5,-12 14,-12s12.5,4 14,12l0,4c-4,-2 -8,-3 -14,-3s-10,1 -14,3V26z" />
+    <path
+        android:fillColor="@color/dashboard_mascot_outline"
+        android:pathData="M36,46h24v6c0,2.21 -1.79,4 -4,4H40c-2.21,0 -4,-1.79 -4,-4v-6z" />
+</vector>

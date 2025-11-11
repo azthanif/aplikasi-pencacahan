@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dashboard_location_description">Lokasi pengguna saat ini</string>
+    <string name="dashboard_location">Yogyakarta</string>
+    <string name="dashboard_greeting">Selamat Datang, Avita!</string>
+    <string name="dashboard_team_label">PCL - Tim Pencacahan 30</string>
+    <string name="dashboard_mascot_description">Maskot PKL 65</string>
+    <string name="dashboard_total_sent_label">Total Kuesioner Terkirim</string>
+    <string name="dashboard_total_sent_value">6</string>
+    <string name="dashboard_total_sent_unit">kuesioner</string>
+    <string name="dashboard_target_label">Target Kuesioner</string>
+    <string name="dashboard_target_percentage">75%%</string>
+    <string name="dashboard_target_subtitle">6 dari 8 target</string>
+    <string name="dashboard_start_description">Mulai mencacah</string>
+    <string name="dashboard_start_button">Mulai Mencacah</string>
+    <string name="dashboard_submission_description">Lihat submission saya</string>
+    <string name="dashboard_submission_button">Submission Saya</string>
+    <string name="dashboard_menu_home">Home</string>
+    <string name="dashboard_menu_questionnaire">Kuesioner</string>
+    <string name="dashboard_menu_submit">Submit</string>
+</resources>
