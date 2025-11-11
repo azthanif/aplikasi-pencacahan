@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dashboard_background">#F7F8FC</color>
+    <color name="dashboard_primary">#F2994A</color>
+    <color name="dashboard_primary_text">#202B36</color>
+    <color name="dashboard_secondary_text">#6C7A89</color>
+    <color name="dashboard_card_background">#FFFFFFFF</color>
+    <color name="dashboard_card_stroke">#E8EEF5</color>
+    <color name="dashboard_action_background">#FFF8F0</color>
+    <color name="dashboard_action_icon_background">#FFE4CC</color>
+    <color name="dashboard_progress_track">#FFF1DF</color>
+    <color name="dashboard_mascot_background">#FFF3CD</color>
+    <color name="dashboard_mascot_outfit">#56CCF2</color>
+    <color name="dashboard_mascot_skin">#F5CBA7</color>
+    <color name="dashboard_mascot_hair">#E67E22</color>
+    <color name="dashboard_mascot_outline">#F2994A</color>
+</resources>
